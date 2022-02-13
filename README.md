@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://alperenn.medium.com/](https://alperenn.medium.com/)
 
-- 📫 How to reach me **alperent@mail.com**
+- 📫 How to reach me **alperent@mail.com** | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alperenn/)
 
 - ⚡ Laconism **Knowledge is power.**
 
